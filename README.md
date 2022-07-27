@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, I'm Parasss</h1>
 <h3 align="center">A pure frontend web developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paras02121999" alt="paras02121999" /></a> </p>
 
 - 🔭 I’m currently working on **React, Gatsby & Angular**
 
