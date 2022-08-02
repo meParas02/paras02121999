@@ -4,7 +4,9 @@
 
 - 🔭 I’m currently working on **React, Gatsby & Angular**
 
-- 🌱 I’m currently learning **letest JavaScript frameworks**
+- 🌱 I’m currently learning **Blockchain**
+
+- 👨‍💻 Most of my projects are available on Github.
 
 - 📫 How to reach me **parasmehta1999@gmail.com**
 
